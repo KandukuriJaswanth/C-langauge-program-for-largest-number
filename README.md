@@ -1,1 +1,1 @@
-# C-langauge-program-for-largest-number
+# C-language-program-for-largest-number
